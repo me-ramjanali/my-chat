@@ -9,7 +9,7 @@ export default () => {
 					<div className="row">
 						<div className="col-sm-6">
 							<div className="companyName">
-								<h2>My Chat</h2>
+								<a href=""><i className="fa fa-comments-o"></i>My Chat</a>
 							</div>
 						</div>
 					</div>
